@@ -18,7 +18,7 @@ function App() {
               <Route path='/about' element={<About />}/>
               <Route path='/product' element={<Product />}/>
           </Routes>
-          <img src='./img/b1.png' />
+          <img src='/img/b1.png' />
       </div>
     )
 }
