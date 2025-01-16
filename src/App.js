@@ -19,6 +19,7 @@ function App() {
               <Route path='/product' element={<Product />}/>
           </Routes>
           <img src='/img/b1.png' />
+          <img src='/img/b1.png' />
       </div>
     )
 }
